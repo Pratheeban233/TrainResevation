@@ -10,7 +10,6 @@ public class Check {
 		String deStr = decrypte(enpwd);
 		System.out.println("Decrypted pwd is :"+deStr);
 		
-		
 		Scanner scn = new Scanner(System.in);
 		System.out.println("ener num: ");
 		int in = scn.nextInt();
